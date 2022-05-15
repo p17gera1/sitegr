@@ -1,4 +1,4 @@
 [submodule "all_collections"]
 	path = all_collections
-	url = https://github.com/p17gera1/all_collections
+	url = https://github.com/p17gera1/all_collections.git
 	branch = 2017060
